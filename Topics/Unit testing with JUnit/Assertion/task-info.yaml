@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class CalculatorTest {
+        void testAddition() {
+            // implement a test case
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12649#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 25 Aug 2022 16:50:00 UTC
+record: -1

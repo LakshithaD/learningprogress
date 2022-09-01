@@ -1,0 +1,8 @@
+content:
+- Floating-point types
+- Unit testing with JUnit
+- LinkedList vs. ArrayList
+- Stack
+- HashMap
+- Choosing the right collection
+- Test lifecycle annotations

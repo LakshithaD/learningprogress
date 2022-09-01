@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: a field of the Node class
+- text: balanced tree (since Java 8)
+- text: an element of an array of HashMap
+- text: kind of linked list
+- text: ArrayList
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12381#comment
+status: Solved
+record: -1
+custom_name: What is "bucket"?

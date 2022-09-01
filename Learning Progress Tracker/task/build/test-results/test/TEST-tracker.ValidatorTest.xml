@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tracker.ValidatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-09-01T02:36:21" hostname="lakshitha-Latitude-5501" time="0.007">
+  <properties/>
+  <testcase name="validPoints()" classname="tracker.ValidatorTest" time="0.001"/>
+  <testcase name="invalidPointsChar()" classname="tracker.ValidatorTest" time="0.0"/>
+  <testcase name="invalidPointsSize()" classname="tracker.ValidatorTest" time="0.001"/>
+  <testcase name="validEmailWithDot()" classname="tracker.ValidatorTest" time="0.0"/>
+  <testcase name="invalidName()" classname="tracker.ValidatorTest" time="0.0"/>
+  <testcase name="validNameWithApostrophe()" classname="tracker.ValidatorTest" time="0.0"/>
+  <testcase name="validEmail()" classname="tracker.ValidatorTest" time="0.001"/>
+  <testcase name="validNameWithHyphen()" classname="tracker.ValidatorTest" time="0.0"/>
+  <testcase name="invalidPointsMinus()" classname="tracker.ValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
